@@ -13,7 +13,7 @@ class App extends React.Component {
       <div>
       <Header/>
       <Promotion/>
-      <Car2/>
+      
       </div>
     );
   }
